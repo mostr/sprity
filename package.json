@@ -63,9 +63,6 @@
     "vinyl": "^0.4.6",
     "vinyl-fs": "^1.0.0"
   },
-  "optionalDependencies": {
-    "sprity-css": "^1.0.2"
-  },
   "devDependencies": {
     "chai": "^2.2.0",
     "coveralls": "^2.11.2",
